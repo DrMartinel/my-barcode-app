@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/my-barcode-app/api/(.*)", "destination": "/my-barcode-app/api/index.py" }
+    { "source": "/api/(.*)", "destination": "/api/index.py" }
   ]
 }
