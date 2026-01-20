@@ -1,6 +1,7 @@
-fastapi
-python-multipart
+# Use ONLY these for Vercel
 onnxruntime
 opencv-python-headless
 numpy
 pillow
+fastapi
+python-multipart
